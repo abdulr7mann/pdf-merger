@@ -1,0 +1,5 @@
+--extra-index-url https://PySimpleGUI.net/install
+PySimpleGUI>=5
+pypdf>=4.2.0
+img2pdf>=0.5.1
+pillow>=10.3.0
