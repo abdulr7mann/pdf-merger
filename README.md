@@ -12,9 +12,9 @@ PDF Certificate Merger A minimalist desktop utility that lets you gather scatter
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
-python pdf_merger.py
+python pdf.py
 ```
 ## One-file build 
 ```bash
 pip install pyinstaller
-pyinstaller --onefile --noconsole --icon=pdf_merger_single.ico pdf_merger.py
+pyinstaller --onefile --noconsole --icon=pdf_merger_single.ico pdf.py
