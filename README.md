@@ -7,6 +7,9 @@ PDF Certificate Merger A minimalist desktop utility that lets you gather scatter
 * Progress bar while merging
 * Works on Windows / macOS / Linux
 
+![image](https://github.com/user-attachments/assets/217af8f8-9c52-438c-b6b1-dd5f08676c1c)
+
+
 ## Quick start (dev mode)
 ```bash
 python -m venv venv
